@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<DiffProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>brAthena Megasantos 2013-03-20</Name>
+  <Entries>
+    <DiffProfileEntry>
+      <PatchID>38</PatchID>
+      <PatchName>Remove Gravity Ads</PatchName>
+      <Inputs />
+    </DiffProfileEntry>
+    <DiffProfileEntry>
+      <PatchID>13</PatchID>
+      <PatchName>Disable Ragexe Filename Check</PatchName>
+      <Inputs />
+    </DiffProfileEntry>
+    <DiffProfileEntry>
+      <PatchID>8</PatchID>
+      <PatchName>Custom Window Title</PatchName>
+      <Inputs>
+        <DiffProfileInput>
+          <name>customWindowTitle</name>
+          <value>brAthena Megasantos</value>
+        </DiffProfileInput>
+      </Inputs>
+    </DiffProfileEntry>
+    <DiffProfileEntry>
+      <PatchID>46</PatchID>
+      <PatchName>Use Normal Guild Brackets</PatchName>
+      <Inputs />
+    </DiffProfileEntry>
+    <DiffProfileEntry>
+      <PatchID>39</PatchID>
+      <PatchName>Remove Gravity Logo</PatchName>
+      <Inputs />
+    </DiffProfileEntry>
+    <DiffProfileEntry>
+      <PatchID>32</PatchID>
+      <PatchName>Increase Zoom Out Max</PatchName>
+      <Inputs />
+    </DiffProfileEntry>
+    <DiffProfileEntry>
+      <PatchID>36</PatchID>
+      <PatchName>Read msgstringtable.txt</PatchName>
+      <Inputs />
+    </DiffProfileEntry>
+    <DiffProfileEntry>
+      <PatchID>17</PatchID>
+      <PatchName>Enable Official Custom Fonts</PatchName>
+      <Inputs />
+    </DiffProfileEntry>
+    <DiffProfileEntry>
+      <PatchID>47</PatchID>
+      <PatchName>Use Ragnarok Icon</PatchName>
+      <Inputs />
+    </DiffProfileEntry>
+    <DiffProfileEntry>
+      <PatchID>7</PatchID>
+      <PatchName>Change Gravity Error Handler</PatchName>
+      <Inputs />
+    </DiffProfileEntry>
+    <DiffProfileEntry>
+      <PatchID>86</PatchID>
+      <PatchName>Only First Login Background</PatchName>
+      <Inputs />
+    </DiffProfileEntry>
+    <DiffProfileEntry>
+      <PatchID>15</PatchID>
+      <PatchName>Disable HShield</PatchName>
+      <Inputs />
+    </DiffProfileEntry>
+    <DiffProfileEntry>
+      <PatchID>88</PatchID>
+      <PatchName>Allow space in guild name</PatchName>
+      <Inputs />
+    </DiffProfileEntry>
+    <DiffProfileEntry>
+      <PatchID>72</PatchID>
+      <PatchName>Ignore Missing Palette Error</PatchName>
+      <Inputs />
+    </DiffProfileEntry>
+    <DiffProfileEntry>
+      <PatchID>16</PatchID>
+      <PatchName>Disable Swear Filter</PatchName>
+      <Inputs />
+    </DiffProfileEntry>
+    <DiffProfileEntry>
+      <PatchID>71</PatchID>
+      <PatchName>Ignore Missing File Error</PatchName>
+      <Inputs />
+    </DiffProfileEntry>
+    <DiffProfileEntry>
+      <PatchID>74</PatchID>
+      <PatchName>Increase Screenshot Quality</PatchName>
+      <Inputs>
+        <DiffProfileInput>
+          <name>uQuality</name>
+          <value>99</value>
+        </DiffProfileInput>
+      </Inputs>
+    </DiffProfileEntry>
+    <DiffProfileEntry>
+      <PatchID>19</PatchID>
+      <PatchName>Enable Title Bar Menu</PatchName>
+      <Inputs />
+    </DiffProfileEntry>
+    <DiffProfileEntry>
+      <PatchID>35</PatchID>
+      <PatchName>Read Data Folder First</PatchName>
+      <Inputs />
+    </DiffProfileEntry>
+    <DiffProfileEntry>
+      <PatchID>64</PatchID>
+      <PatchName>@ Bug Fix (Recommended)</PatchName>
+      <Inputs />
+    </DiffProfileEntry>
+    <DiffProfileEntry>
+      <PatchID>76</PatchID>
+      <PatchName>Enforce Official Login Background</PatchName>
+      <Inputs />
+    </DiffProfileEntry>
+    <DiffProfileEntry>
+      <PatchID>69</PatchID>
+      <PatchName>ExtendNpcBox</PatchName>
+      <Inputs />
+    </DiffProfileEntry>
+    <DiffProfileEntry>
+      <PatchID>49</PatchID>
+      <PatchName>Enable Multiple GRFs</PatchName>
+      <Inputs />
+    </DiffProfileEntry>
+    <DiffProfileEntry>
+      <PatchID>28</PatchID>
+      <PatchName>Increase Headgear ViewID to 5000</PatchName>
+      <Inputs />
+    </DiffProfileEntry>
+    <DiffProfileEntry>
+      <PatchID>95</PatchID>
+      <PatchName>Use SSO Login Packet</PatchName>
+      <Inputs />
+    </DiffProfileEntry>
+    <DiffProfileEntry>
+      <PatchID>68</PatchID>
+      <PatchName>Enable 64k Hairstyle</PatchName>
+      <Inputs />
+    </DiffProfileEntry>
+    <DiffProfileEntry>
+      <PatchID>54</PatchID>
+      <PatchName>eXtract MsgStringTable.txt</PatchName>
+      <Inputs />
+    </DiffProfileEntry>
+    <DiffProfileEntry>
+      <PatchID>37</PatchID>
+      <PatchName>Read questid2display.txt</PatchName>
+      <Inputs />
+    </DiffProfileEntry>
+    <DiffProfileEntry>
+      <PatchID>44</PatchID>
+      <PatchName>Translate Client In English</PatchName>
+      <Inputs />
+    </DiffProfileEntry>
+    <DiffProfileEntry>
+      <PatchID>50</PatchID>
+      <PatchName>Skip License Screen</PatchName>
+      <Inputs />
+    </DiffProfileEntry>
+    <DiffProfileEntry>
+      <PatchID>40</PatchID>
+      <PatchName>Restore Login Window</PatchName>
+      <Inputs />
+    </DiffProfileEntry>
+    <DiffProfileEntry>
+      <PatchID>9</PatchID>
+      <PatchName>Disable 1rag1 type parameters</PatchName>
+      <Inputs />
+    </DiffProfileEntry>
+  </Entries>
+</DiffProfile>
